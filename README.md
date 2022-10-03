@@ -8,6 +8,7 @@ Capstone Project (Security Software Development) - IAM using facial recognition
 2. Machine Learning Module: OpenCV
 3. MySQL, Python, Python Flask, HTML, CSS, HeidiSQL
 4. Password Encryption: Salt hashing
+5. Exception Handling
 
 **Project Objectives**
 1. Build a web login & registration interface
