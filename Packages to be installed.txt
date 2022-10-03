@@ -1,0 +1,26 @@
+(venv) PS C:\Users\user\PycharmProjects\pythonProject1\venv\capstone_project\final_login_page_signup> pip list
+Package                 Version
+----------------------- --------
+bcrypt                  3.2.2   
+camera                  1.3.0   
+cffi                    1.15.1  
+click                   8.1.3   
+cmake                   3.22.5
+colorama                0.4.4
+dlib                    19.24.0
+face-recognition        1.3.0
+face-recognition-models 0.3.0
+Flask                   2.1.2
+Flask-Login             0.6.1
+Flask-SQLAlchemy        2.5.1
+greenlet                1.1.2
+itsdangerous            2.1.2
+Jinja2                  3.1.2
+MarkupSafe              2.1.1
+mysql-connector-python  8.0.29
+numpy                   1.22.4
+opencv-contrib-python   4.6.0.66
+opencv-python           4.6.0.66
+passlib                 1.7.4
+Pillow                  9.1.1
+pip                     21.3.1
