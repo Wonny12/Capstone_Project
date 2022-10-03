@@ -1,0 +1,21 @@
+2022-10-03 15:14:25,833 - INFO -  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.99:5000 (Press CTRL+C to quit)
+2022-10-03 15:14:29,861 - INFO - 127.0.0.1 - - [03/Oct/2022 15:14:29] "GET / HTTP/1.1" 200 -
+2022-10-03 15:15:41,163 - INFO - 127.0.0.1 - - [03/Oct/2022 15:15:41] "GET /register HTTP/1.1" 200 -
+2022-10-03 15:18:36,703 - INFO - 127.0.0.1 - - [03/Oct/2022 15:18:36] "GET /register HTTP/1.1" 200 -
+2022-10-03 15:19:04,376 - INFO - The user testing registered
+2022-10-03 15:19:04,377 - INFO - 127.0.0.1 - - [03/Oct/2022 15:19:04] "POST /register HTTP/1.1" 200 -
+2022-10-03 15:19:07,416 - INFO - The user testing logged in
+2022-10-03 15:19:07,429 - INFO - 127.0.0.1 - - [03/Oct/2022 15:19:07] "POST /login HTTP/1.1" 200 -
+2022-10-03 15:19:29,814 - INFO - Found unknown from camera
+2022-10-03 15:19:33,247 - INFO - Found unknown from camera
+2022-10-03 15:19:36,758 - INFO - Found unknown from camera
+2022-10-03 15:19:42,284 - INFO - Found unknown from camera
+2022-10-03 15:19:45,088 - INFO - Found unknown from camera
+2022-10-03 15:19:47,953 - INFO - Found unknown from camera
+2022-10-03 15:19:51,088 - INFO - Found unknown from camera
+2022-10-03 15:19:51,735 - INFO - 127.0.0.1 - - [03/Oct/2022 15:19:51] "GET /task HTTP/1.1" 200 -
+2022-10-03 15:20:02,215 - INFO - Current user logged out
+2022-10-03 15:20:02,217 - INFO - 127.0.0.1 - - [03/Oct/2022 15:20:02] "GET /logout HTTP/1.1" 200 -
